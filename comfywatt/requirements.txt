@@ -1,0 +1,7 @@
+tensorflow>=2.16
+pandas>=2.0
+numpy
+scikit-learn>=1.3
+matplotlib
+missingno
+jupyter
